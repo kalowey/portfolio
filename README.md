@@ -1,2 +1,2 @@
-# my name is kelly and this is my data science portfolio
-###EDUCATION
+# My name is kelly An Aspiring Data Scientist
+## EDUCATION
