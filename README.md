@@ -1,2 +1,2 @@
-# My name is kelly An Aspiring Data Scientist
+ My name is kelly An Aspiring Data Scientist
 ## EDUCATION
